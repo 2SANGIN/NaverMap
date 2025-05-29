@@ -1,0 +1,12 @@
+{
+  "name": "네이버 지도 검색",
+  "identifier": "com.naver.map.PopClipExtension",
+  "icon": "map-location-pin.png",
+  "actions": [
+    {
+      "title": "네이버 지도에서 검색",
+      "type": "open-url",
+      "url": "https://map.naver.com/p/search/***"
+    }
+  ]
+} 
